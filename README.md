@@ -1,6 +1,6 @@
 InfoG is a Shellscript to perform Information Gathering 
 
-![infog](https://i.hizliresim.com/r08PDP.png)
+![infog](https://i.imgyukle.com/2019/07/06/k1GDNp.png)
 
 ### Features
 
