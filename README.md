@@ -1,11 +1,6 @@
-# InfoG v1.0
-## Author: github.com/thelinuxchoice
-## IG: instagram.com/thelinuxchoice
-### Don't copy this code without give me the credits, nerd! 
-
 InfoG is a Shellscript to perform Information Gathering 
 
-![infog](https://user-images.githubusercontent.com/34893261/41567454-b2c8f96a-7336-11e8-9924-00d7d7d0e8e3.png)
+![infog](https://i.hizliresim.com/r08PDP.png)
 
 ### Features
 
@@ -25,9 +20,9 @@ InfoG is a Shellscript to perform Information Gathering
 
 ### Usage:
 ```
-git clone https://github.com/thelinuxchoice/infog
-cd infog
-bash infog.sh
+git clone https://github.com/turkhacks/-impossible.git
+cd impossible
+bash ths.sh
 ```
 
 ### Install requirements (Curl, Netcat):
